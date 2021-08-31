@@ -1,0 +1,4 @@
+﻿  Morse Code Converter.cpp
+C:\Users\jesse\Desktop\School Shit\C++ Class 2\Morse Code Converter\Morse Code Converter.cpp(37,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jesse\Desktop\School Shit\C++ Class 2\Morse Code Converter\Morse Code Converter.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+  Morse Code Converter.vcxproj -> C:\Users\jesse\Desktop\School Shit\C++ Class 2\Morse Code Converter\Debug\Morse Code Converter.exe

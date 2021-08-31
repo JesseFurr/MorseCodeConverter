@@ -1,0 +1,2 @@
+C:\Users\jesse\Desktop\School Shit\C++ Class 2\Morse Code Converter\Debug\Morse Code Converter.exe
+C:\Users\jesse\Desktop\School Shit\C++ Class 2\Morse Code Converter\Debug\Morse Code Converter.pdb
